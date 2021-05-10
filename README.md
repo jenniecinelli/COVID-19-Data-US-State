@@ -1,3 +1,4 @@
-Collaborators:
-*John Russell
-*Jennie Cinelli
+## Collaborators
+
+* John Russell
+* Jennie Cinelli
